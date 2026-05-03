@@ -2,7 +2,14 @@ import streamlit as st
 import requests
 from PIL import Image
 import io
-import json
+import torch
+import numpy as np
+import sys
+import os
+sys.path.insert(0, "/Users/mehwishrahman/Desktop/project-1/mini-vla")
+from app.model import VLAModel, ACTION_CLASSES
+from app.attention import get_attention_map, overlay_attention
+from torchvision import transforms
 
 st.set_page_config(
     page_title="Mini-VLA Robot Action Predictor",
@@ -11,20 +18,30 @@ st.set_page_config(
 )
 
 st.title("🤖 Mini-VLA: Open-Vocabulary Robot Action Predictor")
-st.markdown("Upload a robot scene image and give a natural language instruction to predict the robot action.")
+st.markdown("*Vision-Language-Action model using CLIP + Fusion Head — predicts robot manipulation actions from image + instruction*")
 
-API_URL = "http://127.0.0.1:8007"
+@st.cache_resource
+def load_model():
+    model = VLAModel(num_classes=5)
+    if os.path.exists('models/checkpoints/best_model.pt'):
+        model.load_state_dict(torch.load('models/checkpoints/best_model.pt', map_location='cpu'))
+    model.eval()
+    return model
+
+model = load_model()
 
 col1, col2 = st.columns([1, 1])
 
 with col1:
     st.header("Input")
     uploaded_file = st.file_uploader("Upload robot scene image", type=["jpg", "jpeg", "png"])
+
     instruction = st.text_input(
         "Natural language instruction",
         placeholder="e.g. pick up the red block"
     )
 
+    st.markdown("**Quick examples:**")
     examples = [
         "pick up the red block",
         "place the object on the shelf",
@@ -32,58 +49,85 @@ with col1:
         "open the drawer",
         "close the cabinet door"
     ]
-    st.markdown("**Example instructions:**")
-    for ex in examples:
-        if st.button(ex, key=ex):
-            instruction = ex
 
-    predict_btn = st.button("Predict Action", type="primary")
+    cols = st.columns(2)
+    for i, ex in enumerate(examples):
+        if cols[i % 2].button(ex, key=ex, use_container_width=True):
+            instruction = ex
+            st.session_state.instruction = ex
+
+    if "instruction" in st.session_state:
+        instruction = st.session_state.instruction
+
+    confidence_threshold = st.slider("Confidence threshold", 0.0, 1.0, 0.5, 0.05)
+    show_attention = st.checkbox("Show attention heatmap", value=True)
+    predict_btn = st.button("🔍 Predict Action", type="primary", use_container_width=True)
 
 with col2:
-    st.header("Prediction")
+    st.header("Results")
 
     if uploaded_file and instruction and predict_btn:
-        with st.spinner("Predicting..."):
-            response = requests.post(
-                f"{API_URL}/predict",
-                files={"file": (uploaded_file.name, uploaded_file.getvalue(), "image/jpeg")},
-                data={"instruction": instruction}
-            )
+        image = Image.open(uploaded_file).convert("RGB")
 
-            if response.status_code == 200:
-                result = response.json()
+        with st.spinner("Running VLA inference..."):
+            transform = transforms.Compose([
+                transforms.Resize((224, 224)),
+                transforms.ToTensor(),
+            ])
+            img_tensor = transform(image)
 
-                action = result["predicted_action"]
-                confidence = result["confidence"]
-                latency = result["latency_ms"]
+            with torch.no_grad():
+                logits = model([img_tensor], [instruction])
+                probs = torch.softmax(logits, dim=-1)[0]
+                pred_idx = probs.argmax().item()
+                confidence = probs[pred_idx].item()
+                action = ACTION_CLASSES[pred_idx]
 
-                action_colors = {
-                    "PICK": "🟢",
-                    "PLACE": "🔵",
-                    "PUSH": "🟡",
-                    "OPEN": "🟠",
-                    "CLOSE": "🔴"
-                }
+            action_emojis = {
+                "PICK": "🟢 PICK",
+                "PLACE": "🔵 PLACE",
+                "PUSH": "🟡 PUSH",
+                "OPEN": "🟠 OPEN",
+                "CLOSE": "🔴 CLOSE"
+            }
 
-                st.markdown(f"### {action_colors.get(action, '⚪')} Predicted Action: **{action}**")
-                st.markdown(f"**Confidence:** {confidence*100:.2f}%")
-                st.markdown(f"**Latency:** {latency}ms")
-
-                st.divider()
-                st.markdown("**All Action Probabilities:**")
-
-                probs = result["all_probabilities"]
-                for act, prob in sorted(probs.items(), key=lambda x: x[1], reverse=True):
-                    color = action_colors.get(act, "⚪")
-                    st.progress(prob, text=f"{color} {act}: {prob*100:.2f}%")
-
+            if confidence >= confidence_threshold:
+                st.success(f"### Predicted: {action_emojis[action]}")
             else:
-                st.error("Prediction failed!")
+                st.warning(f"### Low confidence: {action_emojis[action]}")
 
-    if uploaded_file:
-        st.image(uploaded_file, caption="Uploaded Image", use_container_width=True)
+            col_m1, col_m2 = st.columns(2)
+            col_m1.metric("Confidence", f"{confidence*100:.1f}%")
+            col_m2.metric("Threshold", f"{confidence_threshold*100:.0f}%")
+
+            st.markdown("**Action Probabilities:**")
+            for i, act in enumerate(ACTION_CLASSES):
+                prob = probs[i].item()
+                emoji = action_emojis[act].split()[0]
+                st.progress(prob, text=f"{emoji} {act}: {prob*100:.1f}%")
+
+            st.divider()
+
+            if show_attention:
+                st.markdown("**Attention Heatmap:**")
+                attn_map = get_attention_map(model, image, instruction)
+                if attn_map is not None:
+                    overlay = overlay_attention(image, attn_map)
+                    img_col1, img_col2 = st.columns(2)
+                    img_col1.image(image.resize((224, 224)), caption="Original", use_container_width=True)
+                    img_col2.image(overlay, caption="Attention", use_container_width=True)
+                else:
+                    st.image(image, caption="Input Image", use_container_width=True)
+            else:
+                st.image(image, caption="Input Image", use_container_width=True)
+
+    elif not uploaded_file:
+        st.info("Upload an image to get started!")
+    elif not instruction:
+        st.info("Enter an instruction!")
 
 st.divider()
-st.markdown("**Model:** CLIP ViT-B/32 + Fusion Head + Action Prediction Head")
-st.markdown("**Action Classes:** PICK | PLACE | PUSH | OPEN | CLOSE")
-st.markdown("**GitHub:** [mehwish-spec/mini-vla](https://github.com/mehwish-spec)")
+col_f1, col_f2, col_f3 = st.columns(3)
+col_f1.markdown("**Model:** CLIP ViT-B/32 + Fusion")
+col_f2.markdown("**Params:** 689K trainable")
+col_f3.markdown("**Classes:** PICK/PLACE/PUSH/OPEN/CLOSE")
