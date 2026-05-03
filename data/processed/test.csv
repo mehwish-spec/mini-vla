@@ -1,0 +1,751 @@
+image_path,instruction,action,label
+data/raw/images/img_04250.jpg,pick up the red block,PICK,0
+data/raw/images/img_04251.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04252.jpg,move the cube away,PUSH,2
+data/raw/images/img_04253.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04254.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04255.jpg,pick up the red block,PICK,0
+data/raw/images/img_04256.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04257.jpg,move the cube away,PUSH,2
+data/raw/images/img_04258.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04259.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04260.jpg,pick up the red block,PICK,0
+data/raw/images/img_04261.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04262.jpg,move the cube away,PUSH,2
+data/raw/images/img_04263.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04264.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04265.jpg,pick up the red block,PICK,0
+data/raw/images/img_04266.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04267.jpg,move the cube away,PUSH,2
+data/raw/images/img_04268.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04269.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04270.jpg,pick up the red block,PICK,0
+data/raw/images/img_04271.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04272.jpg,move the cube away,PUSH,2
+data/raw/images/img_04273.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04274.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04275.jpg,pick up the red block,PICK,0
+data/raw/images/img_04276.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04277.jpg,move the cube away,PUSH,2
+data/raw/images/img_04278.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04279.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04280.jpg,pick up the red block,PICK,0
+data/raw/images/img_04281.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04282.jpg,move the cube away,PUSH,2
+data/raw/images/img_04283.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04284.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04285.jpg,pick up the red block,PICK,0
+data/raw/images/img_04286.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04287.jpg,move the cube away,PUSH,2
+data/raw/images/img_04288.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04289.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04290.jpg,pick up the red block,PICK,0
+data/raw/images/img_04291.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04292.jpg,move the cube away,PUSH,2
+data/raw/images/img_04293.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04294.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04295.jpg,pick up the red block,PICK,0
+data/raw/images/img_04296.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04297.jpg,move the cube away,PUSH,2
+data/raw/images/img_04298.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04299.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04300.jpg,pick up the red block,PICK,0
+data/raw/images/img_04301.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04302.jpg,move the cube away,PUSH,2
+data/raw/images/img_04303.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04304.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04305.jpg,pick up the red block,PICK,0
+data/raw/images/img_04306.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04307.jpg,move the cube away,PUSH,2
+data/raw/images/img_04308.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04309.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04310.jpg,pick up the red block,PICK,0
+data/raw/images/img_04311.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04312.jpg,move the cube away,PUSH,2
+data/raw/images/img_04313.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04314.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04315.jpg,pick up the red block,PICK,0
+data/raw/images/img_04316.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04317.jpg,move the cube away,PUSH,2
+data/raw/images/img_04318.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04319.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04320.jpg,pick up the red block,PICK,0
+data/raw/images/img_04321.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04322.jpg,move the cube away,PUSH,2
+data/raw/images/img_04323.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04324.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04325.jpg,pick up the red block,PICK,0
+data/raw/images/img_04326.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04327.jpg,move the cube away,PUSH,2
+data/raw/images/img_04328.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04329.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04330.jpg,pick up the red block,PICK,0
+data/raw/images/img_04331.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04332.jpg,move the cube away,PUSH,2
+data/raw/images/img_04333.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04334.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04335.jpg,pick up the red block,PICK,0
+data/raw/images/img_04336.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04337.jpg,move the cube away,PUSH,2
+data/raw/images/img_04338.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04339.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04340.jpg,pick up the red block,PICK,0
+data/raw/images/img_04341.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04342.jpg,move the cube away,PUSH,2
+data/raw/images/img_04343.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04344.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04345.jpg,pick up the red block,PICK,0
+data/raw/images/img_04346.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04347.jpg,move the cube away,PUSH,2
+data/raw/images/img_04348.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04349.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04350.jpg,pick up the red block,PICK,0
+data/raw/images/img_04351.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04352.jpg,move the cube away,PUSH,2
+data/raw/images/img_04353.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04354.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04355.jpg,pick up the red block,PICK,0
+data/raw/images/img_04356.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04357.jpg,move the cube away,PUSH,2
+data/raw/images/img_04358.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04359.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04360.jpg,pick up the red block,PICK,0
+data/raw/images/img_04361.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04362.jpg,move the cube away,PUSH,2
+data/raw/images/img_04363.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04364.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04365.jpg,pick up the red block,PICK,0
+data/raw/images/img_04366.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04367.jpg,move the cube away,PUSH,2
+data/raw/images/img_04368.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04369.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04370.jpg,pick up the red block,PICK,0
+data/raw/images/img_04371.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04372.jpg,move the cube away,PUSH,2
+data/raw/images/img_04373.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04374.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04375.jpg,pick up the red block,PICK,0
+data/raw/images/img_04376.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04377.jpg,move the cube away,PUSH,2
+data/raw/images/img_04378.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04379.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04380.jpg,pick up the red block,PICK,0
+data/raw/images/img_04381.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04382.jpg,move the cube away,PUSH,2
+data/raw/images/img_04383.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04384.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04385.jpg,pick up the red block,PICK,0
+data/raw/images/img_04386.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04387.jpg,move the cube away,PUSH,2
+data/raw/images/img_04388.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04389.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04390.jpg,pick up the red block,PICK,0
+data/raw/images/img_04391.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04392.jpg,move the cube away,PUSH,2
+data/raw/images/img_04393.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04394.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04395.jpg,pick up the red block,PICK,0
+data/raw/images/img_04396.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04397.jpg,move the cube away,PUSH,2
+data/raw/images/img_04398.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04399.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04400.jpg,pick up the red block,PICK,0
+data/raw/images/img_04401.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04402.jpg,move the cube away,PUSH,2
+data/raw/images/img_04403.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04404.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04405.jpg,pick up the red block,PICK,0
+data/raw/images/img_04406.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04407.jpg,move the cube away,PUSH,2
+data/raw/images/img_04408.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04409.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04410.jpg,pick up the red block,PICK,0
+data/raw/images/img_04411.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04412.jpg,move the cube away,PUSH,2
+data/raw/images/img_04413.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04414.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04415.jpg,pick up the red block,PICK,0
+data/raw/images/img_04416.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04417.jpg,move the cube away,PUSH,2
+data/raw/images/img_04418.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04419.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04420.jpg,pick up the red block,PICK,0
+data/raw/images/img_04421.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04422.jpg,move the cube away,PUSH,2
+data/raw/images/img_04423.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04424.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04425.jpg,pick up the red block,PICK,0
+data/raw/images/img_04426.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04427.jpg,move the cube away,PUSH,2
+data/raw/images/img_04428.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04429.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04430.jpg,pick up the red block,PICK,0
+data/raw/images/img_04431.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04432.jpg,move the cube away,PUSH,2
+data/raw/images/img_04433.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04434.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04435.jpg,pick up the red block,PICK,0
+data/raw/images/img_04436.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04437.jpg,move the cube away,PUSH,2
+data/raw/images/img_04438.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04439.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04440.jpg,pick up the red block,PICK,0
+data/raw/images/img_04441.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04442.jpg,move the cube away,PUSH,2
+data/raw/images/img_04443.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04444.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04445.jpg,pick up the red block,PICK,0
+data/raw/images/img_04446.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04447.jpg,move the cube away,PUSH,2
+data/raw/images/img_04448.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04449.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04450.jpg,pick up the red block,PICK,0
+data/raw/images/img_04451.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04452.jpg,move the cube away,PUSH,2
+data/raw/images/img_04453.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04454.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04455.jpg,pick up the red block,PICK,0
+data/raw/images/img_04456.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04457.jpg,move the cube away,PUSH,2
+data/raw/images/img_04458.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04459.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04460.jpg,pick up the red block,PICK,0
+data/raw/images/img_04461.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04462.jpg,move the cube away,PUSH,2
+data/raw/images/img_04463.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04464.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04465.jpg,pick up the red block,PICK,0
+data/raw/images/img_04466.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04467.jpg,move the cube away,PUSH,2
+data/raw/images/img_04468.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04469.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04470.jpg,pick up the red block,PICK,0
+data/raw/images/img_04471.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04472.jpg,move the cube away,PUSH,2
+data/raw/images/img_04473.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04474.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04475.jpg,pick up the red block,PICK,0
+data/raw/images/img_04476.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04477.jpg,move the cube away,PUSH,2
+data/raw/images/img_04478.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04479.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04480.jpg,pick up the red block,PICK,0
+data/raw/images/img_04481.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04482.jpg,move the cube away,PUSH,2
+data/raw/images/img_04483.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04484.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04485.jpg,pick up the red block,PICK,0
+data/raw/images/img_04486.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04487.jpg,move the cube away,PUSH,2
+data/raw/images/img_04488.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04489.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04490.jpg,pick up the red block,PICK,0
+data/raw/images/img_04491.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04492.jpg,move the cube away,PUSH,2
+data/raw/images/img_04493.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04494.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04495.jpg,pick up the red block,PICK,0
+data/raw/images/img_04496.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04497.jpg,move the cube away,PUSH,2
+data/raw/images/img_04498.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04499.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04500.jpg,pick up the red block,PICK,0
+data/raw/images/img_04501.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04502.jpg,move the cube away,PUSH,2
+data/raw/images/img_04503.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04504.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04505.jpg,pick up the red block,PICK,0
+data/raw/images/img_04506.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04507.jpg,move the cube away,PUSH,2
+data/raw/images/img_04508.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04509.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04510.jpg,pick up the red block,PICK,0
+data/raw/images/img_04511.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04512.jpg,move the cube away,PUSH,2
+data/raw/images/img_04513.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04514.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04515.jpg,pick up the red block,PICK,0
+data/raw/images/img_04516.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04517.jpg,move the cube away,PUSH,2
+data/raw/images/img_04518.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04519.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04520.jpg,pick up the red block,PICK,0
+data/raw/images/img_04521.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04522.jpg,move the cube away,PUSH,2
+data/raw/images/img_04523.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04524.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04525.jpg,pick up the red block,PICK,0
+data/raw/images/img_04526.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04527.jpg,move the cube away,PUSH,2
+data/raw/images/img_04528.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04529.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04530.jpg,pick up the red block,PICK,0
+data/raw/images/img_04531.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04532.jpg,move the cube away,PUSH,2
+data/raw/images/img_04533.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04534.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04535.jpg,pick up the red block,PICK,0
+data/raw/images/img_04536.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04537.jpg,move the cube away,PUSH,2
+data/raw/images/img_04538.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04539.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04540.jpg,pick up the red block,PICK,0
+data/raw/images/img_04541.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04542.jpg,move the cube away,PUSH,2
+data/raw/images/img_04543.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04544.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04545.jpg,pick up the red block,PICK,0
+data/raw/images/img_04546.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04547.jpg,move the cube away,PUSH,2
+data/raw/images/img_04548.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04549.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04550.jpg,pick up the red block,PICK,0
+data/raw/images/img_04551.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04552.jpg,move the cube away,PUSH,2
+data/raw/images/img_04553.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04554.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04555.jpg,pick up the red block,PICK,0
+data/raw/images/img_04556.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04557.jpg,move the cube away,PUSH,2
+data/raw/images/img_04558.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04559.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04560.jpg,pick up the red block,PICK,0
+data/raw/images/img_04561.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04562.jpg,move the cube away,PUSH,2
+data/raw/images/img_04563.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04564.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04565.jpg,pick up the red block,PICK,0
+data/raw/images/img_04566.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04567.jpg,move the cube away,PUSH,2
+data/raw/images/img_04568.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04569.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04570.jpg,pick up the red block,PICK,0
+data/raw/images/img_04571.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04572.jpg,move the cube away,PUSH,2
+data/raw/images/img_04573.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04574.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04575.jpg,pick up the red block,PICK,0
+data/raw/images/img_04576.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04577.jpg,move the cube away,PUSH,2
+data/raw/images/img_04578.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04579.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04580.jpg,pick up the red block,PICK,0
+data/raw/images/img_04581.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04582.jpg,move the cube away,PUSH,2
+data/raw/images/img_04583.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04584.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04585.jpg,pick up the red block,PICK,0
+data/raw/images/img_04586.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04587.jpg,move the cube away,PUSH,2
+data/raw/images/img_04588.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04589.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04590.jpg,pick up the red block,PICK,0
+data/raw/images/img_04591.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04592.jpg,move the cube away,PUSH,2
+data/raw/images/img_04593.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04594.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04595.jpg,pick up the red block,PICK,0
+data/raw/images/img_04596.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04597.jpg,move the cube away,PUSH,2
+data/raw/images/img_04598.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04599.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04600.jpg,pick up the red block,PICK,0
+data/raw/images/img_04601.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04602.jpg,move the cube away,PUSH,2
+data/raw/images/img_04603.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04604.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04605.jpg,pick up the red block,PICK,0
+data/raw/images/img_04606.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04607.jpg,move the cube away,PUSH,2
+data/raw/images/img_04608.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04609.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04610.jpg,pick up the red block,PICK,0
+data/raw/images/img_04611.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04612.jpg,move the cube away,PUSH,2
+data/raw/images/img_04613.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04614.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04615.jpg,pick up the red block,PICK,0
+data/raw/images/img_04616.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04617.jpg,move the cube away,PUSH,2
+data/raw/images/img_04618.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04619.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04620.jpg,pick up the red block,PICK,0
+data/raw/images/img_04621.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04622.jpg,move the cube away,PUSH,2
+data/raw/images/img_04623.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04624.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04625.jpg,pick up the red block,PICK,0
+data/raw/images/img_04626.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04627.jpg,move the cube away,PUSH,2
+data/raw/images/img_04628.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04629.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04630.jpg,pick up the red block,PICK,0
+data/raw/images/img_04631.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04632.jpg,move the cube away,PUSH,2
+data/raw/images/img_04633.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04634.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04635.jpg,pick up the red block,PICK,0
+data/raw/images/img_04636.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04637.jpg,move the cube away,PUSH,2
+data/raw/images/img_04638.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04639.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04640.jpg,pick up the red block,PICK,0
+data/raw/images/img_04641.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04642.jpg,move the cube away,PUSH,2
+data/raw/images/img_04643.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04644.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04645.jpg,pick up the red block,PICK,0
+data/raw/images/img_04646.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04647.jpg,move the cube away,PUSH,2
+data/raw/images/img_04648.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04649.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04650.jpg,pick up the red block,PICK,0
+data/raw/images/img_04651.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04652.jpg,move the cube away,PUSH,2
+data/raw/images/img_04653.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04654.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04655.jpg,pick up the red block,PICK,0
+data/raw/images/img_04656.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04657.jpg,move the cube away,PUSH,2
+data/raw/images/img_04658.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04659.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04660.jpg,pick up the red block,PICK,0
+data/raw/images/img_04661.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04662.jpg,move the cube away,PUSH,2
+data/raw/images/img_04663.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04664.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04665.jpg,pick up the red block,PICK,0
+data/raw/images/img_04666.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04667.jpg,move the cube away,PUSH,2
+data/raw/images/img_04668.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04669.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04670.jpg,pick up the red block,PICK,0
+data/raw/images/img_04671.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04672.jpg,move the cube away,PUSH,2
+data/raw/images/img_04673.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04674.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04675.jpg,pick up the red block,PICK,0
+data/raw/images/img_04676.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04677.jpg,move the cube away,PUSH,2
+data/raw/images/img_04678.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04679.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04680.jpg,pick up the red block,PICK,0
+data/raw/images/img_04681.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04682.jpg,move the cube away,PUSH,2
+data/raw/images/img_04683.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04684.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04685.jpg,pick up the red block,PICK,0
+data/raw/images/img_04686.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04687.jpg,move the cube away,PUSH,2
+data/raw/images/img_04688.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04689.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04690.jpg,pick up the red block,PICK,0
+data/raw/images/img_04691.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04692.jpg,move the cube away,PUSH,2
+data/raw/images/img_04693.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04694.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04695.jpg,pick up the red block,PICK,0
+data/raw/images/img_04696.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04697.jpg,move the cube away,PUSH,2
+data/raw/images/img_04698.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04699.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04700.jpg,pick up the red block,PICK,0
+data/raw/images/img_04701.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04702.jpg,move the cube away,PUSH,2
+data/raw/images/img_04703.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04704.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04705.jpg,pick up the red block,PICK,0
+data/raw/images/img_04706.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04707.jpg,move the cube away,PUSH,2
+data/raw/images/img_04708.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04709.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04710.jpg,pick up the red block,PICK,0
+data/raw/images/img_04711.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04712.jpg,move the cube away,PUSH,2
+data/raw/images/img_04713.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04714.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04715.jpg,pick up the red block,PICK,0
+data/raw/images/img_04716.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04717.jpg,move the cube away,PUSH,2
+data/raw/images/img_04718.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04719.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04720.jpg,pick up the red block,PICK,0
+data/raw/images/img_04721.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04722.jpg,move the cube away,PUSH,2
+data/raw/images/img_04723.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04724.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04725.jpg,pick up the red block,PICK,0
+data/raw/images/img_04726.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04727.jpg,move the cube away,PUSH,2
+data/raw/images/img_04728.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04729.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04730.jpg,pick up the red block,PICK,0
+data/raw/images/img_04731.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04732.jpg,move the cube away,PUSH,2
+data/raw/images/img_04733.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04734.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04735.jpg,pick up the red block,PICK,0
+data/raw/images/img_04736.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04737.jpg,move the cube away,PUSH,2
+data/raw/images/img_04738.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04739.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04740.jpg,pick up the red block,PICK,0
+data/raw/images/img_04741.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04742.jpg,move the cube away,PUSH,2
+data/raw/images/img_04743.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04744.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04745.jpg,pick up the red block,PICK,0
+data/raw/images/img_04746.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04747.jpg,move the cube away,PUSH,2
+data/raw/images/img_04748.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04749.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04750.jpg,pick up the red block,PICK,0
+data/raw/images/img_04751.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04752.jpg,move the cube away,PUSH,2
+data/raw/images/img_04753.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04754.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04755.jpg,pick up the red block,PICK,0
+data/raw/images/img_04756.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04757.jpg,move the cube away,PUSH,2
+data/raw/images/img_04758.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04759.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04760.jpg,pick up the red block,PICK,0
+data/raw/images/img_04761.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04762.jpg,move the cube away,PUSH,2
+data/raw/images/img_04763.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04764.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04765.jpg,pick up the red block,PICK,0
+data/raw/images/img_04766.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04767.jpg,move the cube away,PUSH,2
+data/raw/images/img_04768.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04769.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04770.jpg,pick up the red block,PICK,0
+data/raw/images/img_04771.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04772.jpg,move the cube away,PUSH,2
+data/raw/images/img_04773.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04774.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04775.jpg,pick up the red block,PICK,0
+data/raw/images/img_04776.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04777.jpg,move the cube away,PUSH,2
+data/raw/images/img_04778.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04779.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04780.jpg,pick up the red block,PICK,0
+data/raw/images/img_04781.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04782.jpg,move the cube away,PUSH,2
+data/raw/images/img_04783.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04784.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04785.jpg,pick up the red block,PICK,0
+data/raw/images/img_04786.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04787.jpg,move the cube away,PUSH,2
+data/raw/images/img_04788.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04789.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04790.jpg,pick up the red block,PICK,0
+data/raw/images/img_04791.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04792.jpg,move the cube away,PUSH,2
+data/raw/images/img_04793.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04794.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04795.jpg,pick up the red block,PICK,0
+data/raw/images/img_04796.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04797.jpg,move the cube away,PUSH,2
+data/raw/images/img_04798.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04799.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04800.jpg,pick up the red block,PICK,0
+data/raw/images/img_04801.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04802.jpg,move the cube away,PUSH,2
+data/raw/images/img_04803.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04804.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04805.jpg,pick up the red block,PICK,0
+data/raw/images/img_04806.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04807.jpg,move the cube away,PUSH,2
+data/raw/images/img_04808.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04809.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04810.jpg,pick up the red block,PICK,0
+data/raw/images/img_04811.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04812.jpg,move the cube away,PUSH,2
+data/raw/images/img_04813.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04814.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04815.jpg,pick up the red block,PICK,0
+data/raw/images/img_04816.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04817.jpg,move the cube away,PUSH,2
+data/raw/images/img_04818.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04819.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04820.jpg,pick up the red block,PICK,0
+data/raw/images/img_04821.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04822.jpg,move the cube away,PUSH,2
+data/raw/images/img_04823.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04824.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04825.jpg,pick up the red block,PICK,0
+data/raw/images/img_04826.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04827.jpg,move the cube away,PUSH,2
+data/raw/images/img_04828.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04829.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04830.jpg,pick up the red block,PICK,0
+data/raw/images/img_04831.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04832.jpg,move the cube away,PUSH,2
+data/raw/images/img_04833.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04834.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04835.jpg,pick up the red block,PICK,0
+data/raw/images/img_04836.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04837.jpg,move the cube away,PUSH,2
+data/raw/images/img_04838.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04839.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04840.jpg,pick up the red block,PICK,0
+data/raw/images/img_04841.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04842.jpg,move the cube away,PUSH,2
+data/raw/images/img_04843.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04844.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04845.jpg,pick up the red block,PICK,0
+data/raw/images/img_04846.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04847.jpg,move the cube away,PUSH,2
+data/raw/images/img_04848.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04849.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04850.jpg,pick up the red block,PICK,0
+data/raw/images/img_04851.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04852.jpg,move the cube away,PUSH,2
+data/raw/images/img_04853.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04854.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04855.jpg,pick up the red block,PICK,0
+data/raw/images/img_04856.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04857.jpg,move the cube away,PUSH,2
+data/raw/images/img_04858.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04859.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04860.jpg,pick up the red block,PICK,0
+data/raw/images/img_04861.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04862.jpg,move the cube away,PUSH,2
+data/raw/images/img_04863.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04864.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04865.jpg,pick up the red block,PICK,0
+data/raw/images/img_04866.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04867.jpg,move the cube away,PUSH,2
+data/raw/images/img_04868.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04869.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04870.jpg,pick up the red block,PICK,0
+data/raw/images/img_04871.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04872.jpg,move the cube away,PUSH,2
+data/raw/images/img_04873.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04874.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04875.jpg,pick up the red block,PICK,0
+data/raw/images/img_04876.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04877.jpg,move the cube away,PUSH,2
+data/raw/images/img_04878.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04879.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04880.jpg,pick up the red block,PICK,0
+data/raw/images/img_04881.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04882.jpg,move the cube away,PUSH,2
+data/raw/images/img_04883.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04884.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04885.jpg,pick up the red block,PICK,0
+data/raw/images/img_04886.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04887.jpg,move the cube away,PUSH,2
+data/raw/images/img_04888.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04889.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04890.jpg,pick up the red block,PICK,0
+data/raw/images/img_04891.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04892.jpg,move the cube away,PUSH,2
+data/raw/images/img_04893.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04894.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04895.jpg,pick up the red block,PICK,0
+data/raw/images/img_04896.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04897.jpg,move the cube away,PUSH,2
+data/raw/images/img_04898.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04899.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04900.jpg,pick up the red block,PICK,0
+data/raw/images/img_04901.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04902.jpg,move the cube away,PUSH,2
+data/raw/images/img_04903.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04904.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04905.jpg,pick up the red block,PICK,0
+data/raw/images/img_04906.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04907.jpg,move the cube away,PUSH,2
+data/raw/images/img_04908.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04909.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04910.jpg,pick up the red block,PICK,0
+data/raw/images/img_04911.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04912.jpg,move the cube away,PUSH,2
+data/raw/images/img_04913.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04914.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04915.jpg,pick up the red block,PICK,0
+data/raw/images/img_04916.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04917.jpg,move the cube away,PUSH,2
+data/raw/images/img_04918.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04919.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04920.jpg,pick up the red block,PICK,0
+data/raw/images/img_04921.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04922.jpg,move the cube away,PUSH,2
+data/raw/images/img_04923.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04924.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04925.jpg,pick up the red block,PICK,0
+data/raw/images/img_04926.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04927.jpg,move the cube away,PUSH,2
+data/raw/images/img_04928.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04929.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04930.jpg,pick up the red block,PICK,0
+data/raw/images/img_04931.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04932.jpg,move the cube away,PUSH,2
+data/raw/images/img_04933.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04934.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04935.jpg,pick up the red block,PICK,0
+data/raw/images/img_04936.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04937.jpg,move the cube away,PUSH,2
+data/raw/images/img_04938.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04939.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04940.jpg,pick up the red block,PICK,0
+data/raw/images/img_04941.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04942.jpg,move the cube away,PUSH,2
+data/raw/images/img_04943.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04944.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04945.jpg,pick up the red block,PICK,0
+data/raw/images/img_04946.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04947.jpg,move the cube away,PUSH,2
+data/raw/images/img_04948.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04949.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04950.jpg,pick up the red block,PICK,0
+data/raw/images/img_04951.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04952.jpg,move the cube away,PUSH,2
+data/raw/images/img_04953.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04954.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04955.jpg,pick up the red block,PICK,0
+data/raw/images/img_04956.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04957.jpg,move the cube away,PUSH,2
+data/raw/images/img_04958.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04959.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04960.jpg,pick up the red block,PICK,0
+data/raw/images/img_04961.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04962.jpg,move the cube away,PUSH,2
+data/raw/images/img_04963.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04964.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04965.jpg,pick up the red block,PICK,0
+data/raw/images/img_04966.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04967.jpg,move the cube away,PUSH,2
+data/raw/images/img_04968.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04969.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04970.jpg,pick up the red block,PICK,0
+data/raw/images/img_04971.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04972.jpg,move the cube away,PUSH,2
+data/raw/images/img_04973.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04974.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04975.jpg,pick up the red block,PICK,0
+data/raw/images/img_04976.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04977.jpg,move the cube away,PUSH,2
+data/raw/images/img_04978.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04979.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04980.jpg,pick up the red block,PICK,0
+data/raw/images/img_04981.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04982.jpg,move the cube away,PUSH,2
+data/raw/images/img_04983.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04984.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04985.jpg,pick up the red block,PICK,0
+data/raw/images/img_04986.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04987.jpg,move the cube away,PUSH,2
+data/raw/images/img_04988.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04989.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04990.jpg,pick up the red block,PICK,0
+data/raw/images/img_04991.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04992.jpg,move the cube away,PUSH,2
+data/raw/images/img_04993.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04994.jpg,close the cabinet,CLOSE,4
+data/raw/images/img_04995.jpg,pick up the red block,PICK,0
+data/raw/images/img_04996.jpg,put the object down carefully,PLACE,1
+data/raw/images/img_04997.jpg,move the cube away,PUSH,2
+data/raw/images/img_04998.jpg,unlock and open the box,OPEN,3
+data/raw/images/img_04999.jpg,close the cabinet,CLOSE,4

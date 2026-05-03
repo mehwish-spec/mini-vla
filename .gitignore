@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+mlruns/
+write_*.py
+data/raw/
+*.pt
